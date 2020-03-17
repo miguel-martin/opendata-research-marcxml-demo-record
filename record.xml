@@ -36,7 +36,7 @@
     <datafield tag="540" ind1=" " ind2=" ">
         <subfield code="9">info:eu-repo/semantics/openAccess</subfield>
         <subfield code="a">by</subfield>
-        <subfield code="u">http://creativecommons.org/licenses/by/4.0/es/</subfield>
+        <subfield code="u">https://creativecommons.org/licenses/by/4.0/deed.es</subfield>
     </datafield>
     <datafield tag="653" ind1="1" ind2=" ">
         <subfield code="a">TRAFAIR</subfield>
