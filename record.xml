@@ -1,0 +1,61 @@
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+    <datafield tag="037" ind1=" " ind2=" ">
+        <subfield code="a">TRAFAIR-2020-001</subfield>
+    </datafield>
+    <datafield tag="245" ind1=" " ind2=" ">
+        <subfield code="a">
+            Historic air quality sensor raw observations 2020-02
+        </subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+        <subfield code="b">Universidad de Zaragoza</subfield>
+        <subfield code="c">01/03/2020</subfield>
+    </datafield>
+    <datafield tag="310" ind1=" " ind2=" ">
+        <subfield code="a">Anual</subfield>
+        <subfield code="b">2020</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+        <subfield code="a">
+            This is a note.
+        </subfield>
+    </datafield>
+    <datafield tag="506" ind1="0" ind2=" ">
+        <subfield code="a">Access copy available to the general public</subfield>
+        <subfield code="f">Unrestricted</subfield>
+    </datafield>
+    <datafield tag="518" ind1=" " ind2=" ">
+        <subfield code="a">01/02/2020-29/02/2020</subfield>
+    </datafield>
+    <datafield tag="520" ind1="3" ind2=" ">
+        <subfield code="a">
+            This is the record description.
+        </subfield>
+    </datafield>
+    <datafield tag="540" ind1=" " ind2=" ">
+        <subfield code="9">info:eu-repo/semantics/openAccess</subfield>
+        <subfield code="a">by</subfield>
+        <subfield code="u">http://creativecommons.org/licenses/by/4.0/es/</subfield>
+    </datafield>
+    <datafield tag="653" ind1="1" ind2=" ">
+        <subfield code="a">TRAFAIR</subfield>
+    </datafield>
+    <datafield tag="700" ind1=" " ind2=" ">
+        <subfield code="a">Universidad de Zaragoza</subfield>
+    </datafield>
+    <datafield tag="FFT" ind1=" " ind2=" ">
+          <subfield code="a">https://tec.citius.usc.es/trafair/ogcservices/wfs?service=wfs&request=GetFeature&typeName=open_data:historic_air_quality_sensor_raw_observations_2020_02&outputFormat=json</subfield>
+          <subfield code="f">application/json</subfield>
+          <subfield code="n">open_data:historic_air_quality_sensor_raw_observations_2020_02</subfield>
+    </datafield>
+    <datafield tag="970" ind1=" " ind2=" ">
+        <subfield code="a">TRAFAIR-2020-001</subfield>
+    </datafield>
+    <datafield tag="980" ind1=" " ind2=" ">
+        <subfield code="a">OPENDATA</subfield>
+        <subfield code="b">RESEARCH</subfield>
+        <subfield code="c">TRAFAIR</subfield>
+    </datafield>
+</record>
+</collection>
