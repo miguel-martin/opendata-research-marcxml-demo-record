@@ -46,7 +46,6 @@
     </datafield>
     <datafield tag="FFT" ind1=" " ind2=" ">
           <subfield code="a">https://tec.citius.usc.es/trafair/ogcservices/wfs?service=wfs&amp;request=GetFeature&amp;typeName=open_data:historic_air_quality_sensor_raw_observations_2020_02&amp;outputFormat=json</subfield>
-          <subfield code="f">application/json</subfield>
           <subfield code="n">open_data:historic_air_quality_sensor_raw_observations_2020_02</subfield>
     </datafield>
     <datafield tag="970" ind1=" " ind2=" ">
