@@ -43,7 +43,6 @@
     </datafield>
     <datafield tag="655" ind1="" ind2="7">
 	<subfield code="2">http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset</subfield>
-	<subfield code="a">Conjunto de datos espaciales</subfield>
     </datafield>
     <datafield tag="700" ind1=" " ind2=" ">
         <subfield code="a">Universidad de Zaragoza</subfield>
