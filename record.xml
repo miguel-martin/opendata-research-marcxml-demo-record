@@ -44,8 +44,13 @@
     <datafield tag="653" ind1="1" ind2=" ">
         <subfield code="a">TRAFAIR</subfield>
     </datafield>
-    <datafield tag="655" ind1="" ind2="7">
-	<subfield code="2">http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset</subfield>
+    <datafield tag="654" ind1=" " ind2=" ">
+        <subfield code="2">inspire</subfield>
+        <subfield code="a">http://inspire.ec.europa.eu/theme/ef</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+        <subfield code="2">inspire</subfield>
+        <subfield code="a">http://inspire.ec.europa.eu/metadata-codelist/ResourceType/dataset</subfield>
     </datafield>
     <datafield tag="700" ind1=" " ind2=" ">
         <subfield code="a">Universidad de Zaragoza</subfield>
