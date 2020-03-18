@@ -3,6 +3,9 @@
     <datafield tag="037" ind1=" " ind2=" ">
         <subfield code="a">TRAFAIR-2020-001</subfield>
     </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+        <subfield code="a">spa</subfield>
+    </datafield>
     <datafield tag="245" ind1=" " ind2=" ">
         <subfield code="a">
             Historic air quality sensor raw observations 2020-02
