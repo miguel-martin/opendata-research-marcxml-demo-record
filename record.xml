@@ -1,7 +1,7 @@
 <collection xmlns="http://www.loc.gov/MARC21/slim">
 <record>
     <datafield tag="037" ind1=" " ind2=" ">
-        <subfield code="a">TRAFAIR-2020-002</subfield>
+        <subfield code="a">TRAFAIR-2020-003</subfield>
     </datafield>
     <datafield tag="041" ind1=" " ind2=" ">
         <subfield code="a">spa</subfield>
@@ -61,7 +61,7 @@
           <subfield code="d">JSON</subfield>
     </datafield>
     <datafield tag="970" ind1=" " ind2=" ">
-        <subfield code="a">TRAFAIR-2020-002</subfield>
+        <subfield code="a">TRAFAIR-2020-003</subfield>
     </datafield>
     <datafield tag="980" ind1=" " ind2=" ">
         <subfield code="a">OPENDATA</subfield>
