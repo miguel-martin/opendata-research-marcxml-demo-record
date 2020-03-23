@@ -33,13 +33,18 @@
     </datafield>
     <datafield tag="520" ind1="3" ind2=" ">
         <subfield code="a">
-            This is the record description. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            TRAFAIR (Understanding traffic flows to improve air quality) es un proyecto europeo financiado por la Connecting Europe Facility de la Unión Europea (Project Nr. 2017-EU-IA-0167), cuyos principales objetivos son la monitorización en tiempo real de la polución del aire en zonas urbanas, y el desarrollo de un servicio de predicción de la calidad del aire basado en predicciones meteorológicas y del flujo de tráfico urbano. Además, se pretende publicar los datos de monitorización y predicción de calidad del aire como datos abiertos y crear diferentes aplicaciones para informar a ciudadanos y administraciones de la calidad del aire concienciar sobre el uso responsable del automóvil privado. Más información en http://trafair.eu/
         </subfield>
     </datafield>
     <datafield tag="540" ind1=" " ind2=" ">
         <subfield code="9">info:eu-repo/semantics/openAccess</subfield>
         <subfield code="a">by</subfield>
         <subfield code="u">https://creativecommons.org/licenses/by/4.0/deed.es</subfield>
+    </datafield>
+    <datafield tag="590" ind1=" " ind2=" ">
+        <subfield code="a">
+           TRAFAIR (Understanding traffic flows to improve air quality) is a European project co-financed by the Connecting Europe Facility of the European Union (Project Nr. 2017-EU-IA-0167), whose main goals are the real-time monitoring of air pollution in the city on an urban scale, and the development an air quality forecasting service based on the weather forecasts and the urban traffic flow. In addition, the project also aims to publish monitoring and forecasting data as open data, and to develop applications for citizens and public administrations for informing about air quality and making people aware of a responsible use of private vehicles. More information at http://trafair.eu/
+        </subfield>
     </datafield>
     <datafield tag="653" ind1="1" ind2=" ">
         <subfield code="a">TRAFAIR</subfield>
